@@ -1,1 +1,1 @@
-ini config server
+ini config local
